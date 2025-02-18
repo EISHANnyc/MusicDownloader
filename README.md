@@ -9,9 +9,10 @@ It was also entirely written by ChatGPT. I don't know how to code.
 
 **Prerequisites**
 
-Before using this script, you'll need to have Python installed on your system. You’ll also need a few Python libraries, which can be installed easily with pip.
+Before using this script, you'll need to have Python installed on your system.
 
 Install the Required Libraries
+
 Use the following command to install all the dependencies:
 
 `` pip install yt-dlp mutagen pillow colorama  ``
